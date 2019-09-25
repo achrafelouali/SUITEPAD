@@ -1,5 +1,7 @@
 # SUITEPAD DEMO PROJECT
 This repository contains an ANDROID app that is the subject of a clean code demo.
+ # Overview
+ ![Structure](http://fps-platform.com/suitepad/screen.png)
 
 # Project Structure
 ![Structure](http://fps-platform.com/suitepad/architecture_suitepad.jpg)
@@ -20,4 +22,4 @@ This repository contains an ANDROID app that is the subject of a clean code demo
 1. Launching the App
 2. Getting list of installed packages
 3. Show packages in a list
-```
+```  
