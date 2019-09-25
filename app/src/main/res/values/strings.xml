@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SuitePad</string>
+    <string name="version_code">Version code :\u0020</string>
+    <string name="version_name">Version name :\u0020</string>
+</resources>
